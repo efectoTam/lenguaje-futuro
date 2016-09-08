@@ -1,0 +1,125 @@
+.container{
+	width: 1349px;
+}
+
+/*Inicio header*/
+
+.fondo{
+	background-image:url(../img/grupal.jpg);
+	background-size: cover;
+	height: 637px;
+}
+
+input{
+	background-color: #EE9D1E;
+	width: 100px;
+	height: 40px;
+	border: 1px #EE9D1E solid;
+	border-radius: 3px 3px;
+	font-size: 17px;
+	margin-top: 70px;
+	margin-left: 100px;
+}
+
+.fila1{
+	height: 200px;
+}
+
+.logo{
+	width: 470px;
+	height: 80px;
+	margin-left: 20px;
+	margin-top: 90px;
+}
+
+header nav{
+	overflow: hidden;
+	width: 400px;
+	margin-right: 2px;
+	margin-left: -43px;
+	margin-top: 60px;
+}
+
+header nav ul{
+	overflow: hidden;
+	list-style: none;
+	margin-right: 0px;
+}
+
+header nav ul li{
+	float:left;
+	margin: 0px 1px;
+}
+
+header nav ul li a{
+	padding: 8px 8px;
+	display: block;
+	color:black;
+	text-decoration: none;
+	font-size: 19px;
+	font-family: "Arial";
+}
+
+header nav ul li a:hover{
+	text-decoration: underline;
+}
+
+/*Fin header*/
+
+/*Inicio sección central*/
+
+.grupopequeño{
+	width: 385px;
+	height: 265px;
+	margin-top: 20px;
+}
+
+.gp1{
+	margin-left: 50px;
+}
+
+.gp2{
+	margin-left: 15px;
+}
+
+.gp3{
+	margin-left: -15px;
+}
+
+.pieimg1,.pieimg2,.pieimg3{
+	margin-top: 15px;
+	margin-bottom: 15px;
+	font-size: 20px;
+	font-weight: bold;
+}
+
+.pieimg1{
+	margin-left: 50px;
+}
+
+.pieimg2{
+	margin-left: 15px;
+}
+
+.pieimg3{
+	margin-left: -15px;
+}
+
+/*Fin sección central*/
+
+/*Inicio footer*/
+
+.fila3{
+	height: 70px;
+	background-color: #5B4F4F;
+	color: #ffffff;
+	font-size: 18px;
+	font-size: "Arial";
+}
+
+.footerp{
+	margin-left: 50px;
+	margin-top: 25px;
+}
+
+/*Fin footer+/
